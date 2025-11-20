@@ -1,2 +1,2 @@
-# AI-emoji
+# AI-eye
 Deep Surveillance with Deep Learning – Intelligent Video Surveillance Project
